@@ -1,0 +1,12 @@
+{
+  "observations": 250,
+  "return_observations": 249,
+  "first_date": "2025-01-02",
+  "last_date": "2025-12-31",
+  "adjusted_price_change": 0.11990792783100024,
+  "mean_daily_return": 0.000660512223089628,
+  "daily_volatility": 0.020450458528033153,
+  "annualised_volatility_estimate": 0.32464096477449456,
+  "best_daily_return": 0.1532885035937399,
+  "worst_daily_return": -0.09245604363993343
+}

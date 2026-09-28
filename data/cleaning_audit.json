@@ -1,0 +1,10 @@
+{
+  "downloaded_rows": 250,
+  "invalid_dates_removed": 0,
+  "duplicate_dates_removed": 0,
+  "out_of_range_rows_removed": 0,
+  "invalid_price_rows_removed": 0,
+  "retained_rows": 250,
+  "actual_first_date": "2025-01-02",
+  "actual_last_date": "2025-12-31"
+}
